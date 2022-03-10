@@ -1,0 +1,11 @@
+{
+    "name": "digphp/pagination",
+    "description": "digphp pagination",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "DigPHP\\Pagination\\": "src/"
+        }
+    }
+}
